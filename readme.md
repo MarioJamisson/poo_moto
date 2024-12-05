@@ -89,6 +89,7 @@ Representa a moto que realiza as corridas com:
    Ana pagou R$30 ao motorista.
    O passageiro desceu da moto.
    Motorista: Carlos, Passageiro: Ninguém, Custo atual: R$0
+```
 
 ## 📋 **Regras e restrições**
 - Um passageiro não pode subir na moto sem que haja um motorista.
