@@ -81,13 +81,14 @@ Representa a moto que realiza as corridas com:
    python teste.py
 
 ## 🚀 **Exemplo de saída**
-Carlos agora é o motorista.
-Ana entrou na moto.
-A moto percorreu 30 km. Custo atual da corrida: R$30
-Motorista: Carlos, Passageiro: Ana, Custo atual: R$30
-Ana pagou R$30 ao motorista.
-O passageiro desceu da moto.
-Motorista: Carlos, Passageiro: Ninguém, Custo atual: R$0
+   ```python
+   Carlos agora é o motorista.
+   Ana entrou na moto.
+   A moto percorreu 30 km. Custo atual da corrida: R$30
+   Motorista: Carlos, Passageiro: Ana, Custo atual: R$30
+   Ana pagou R$30 ao motorista.
+   O passageiro desceu da moto.
+   Motorista: Carlos, Passageiro: Ninguém, Custo atual: R$0
 
 ## 📋 **Regras e restrições**
 - Um passageiro não pode subir na moto sem que haja um motorista.
