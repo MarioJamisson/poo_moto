@@ -77,7 +77,8 @@ Representa a moto que realiza as corridas com:
    # Mostrar estado final
    moto.show()
 4. Excecute o script
-   ```python teste.py
+   ```python
+   python teste.py
 
 ## 🚀 **Exemplo de saída**
 Carlos agora é o motorista.
