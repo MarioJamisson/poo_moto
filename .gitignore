@@ -1,0 +1,19 @@
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs e arquivos de saída
+*.log
+*.out
+*.err
+
+# Configurações de IDEs (como VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Outros arquivos temporários
+*.tmp
+*.swp
+*.bak
+.DS_Store
